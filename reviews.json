@@ -10,5 +10,17 @@
       "createdAt": "2025-10-03T22:45:16.487Z",
       "approved": true
     }
+  ],
+  "258708": [
+    {
+      "orderId": "j25MickEJzd9",
+      "productId": "258708",
+      "productName": "ROBOCOP ROGUE CITY | 90 DIAS DE ACESSO",
+      "customerName": "Mateus F.",
+      "rating": 5,
+      "reviewText": "teste",
+      "createdAt": "2025-10-04T01:06:38.725Z",
+      "approved": true
+    }
   ]
 }
